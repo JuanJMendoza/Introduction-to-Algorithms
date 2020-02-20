@@ -24,9 +24,9 @@ How are the shortest-path and traveling-salesman problems given above similar? H
 
 ***Answer:*** 
 
-**Similarities:** Both the shortest-path and traveling-salesman problems are graph problems that get us from point A to point B.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Similarities:** Both the shortest-path and traveling-salesman problems are graph problems that get us from point A to point B.
 
-**Differences:** The shortest-path problem involves getting from point A to point B by traversing through as few edges as possible, potentially leaving out visiting some nodes. As for the traveling-salesman problem, it involves getting to point A to point B by ensuring we go through every other node with each node's next visiting node being its closest neighbor until we inevitably reach point B.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Differences:** The shortest-path problem involves getting from point A to point B by traversing through as few edges as possible, potentially leaving out visiting some nodes. As for the traveling-salesman problem, it involves getting to point A to point B by ensuring we go through every other node with each node's next visiting node being its closest neighbor until we inevitably reach point B.
 
 
 #### 1.1-5
@@ -34,7 +34,7 @@ Come up with a real-world problem in which only the best solution will do. Then 
 
 ***Answer:*** 
 
-**Best Solution:** For this scenario, an anesthesiologist has to get the amount of anesthesia they will be giving a patient right or else they risk not giving the patient enough anesthesia to sidate them for their procedure or potentially killing them.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Best Solution:** For this scenario, an anesthesiologist has to get the amount of anesthesia they will be giving a patient right or else they risk not giving the patient enough anesthesia to sidate them for their procedure or potentially killing them.
 
-**Approximate Solution:** For a scenario where an approximate is good enough is when someone is cooking and they don't have a measuring utinsil to measure the amount of ingredient they're adding to a dish, they can approximate the amount and be off by a little and still be okay.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Approximate Solution:** For a scenario where an approximate is good enough is when someone is cooking and they don't have a measuring utinsil to measure the amount of ingredient they're adding to a dish, they can approximate the amount and be off by a little and still be okay.
 
